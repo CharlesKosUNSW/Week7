@@ -9,7 +9,7 @@
 
 #include <stdio.h>
 
-void q4(void) {
+void q5(void) {
 
 	//This program should read in lower case letters and convert them to uppercase
 	//Each letter is a number itself, should we store them in an array? Or can we avoid such limitations

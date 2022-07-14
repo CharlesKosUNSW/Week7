@@ -21,10 +21,13 @@
     <ClCompile Include="Q2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Q4.c">
+    <ClCompile Include="Q5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Q9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Q10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

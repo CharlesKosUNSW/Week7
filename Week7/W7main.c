@@ -10,14 +10,17 @@
 #include <stdio.h>
 
 void q2(void);
-void q4(void);
+void q5(void);
 void q9(void);
+void q10(void);
 
 int main(void) {
 
 	//q2();
-	//q4();
-	q9();
+	//q5();
+	//q9();
+	//q10();
+	
 
 	return 0; 
 }

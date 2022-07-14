@@ -127,8 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Q10.c" />
     <ClCompile Include="Q2.c" />
-    <ClCompile Include="Q4.c" />
+    <ClCompile Include="Q5.c" />
     <ClCompile Include="Q9.c" />
     <ClCompile Include="W7main.c" />
   </ItemGroup>
